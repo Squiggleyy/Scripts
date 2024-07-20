@@ -1,2 +1,2 @@
 # Scripts
-Store any scripts used for Cloud data collection, API calls, etc
+Store any scripts used for data collection, API calls, etc
